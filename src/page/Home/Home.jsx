@@ -15,6 +15,12 @@ const HomePage = function () {
                     </div>
                     <div className="group-vertical chats flex flex-col"> {/* V */}
                         <div className="group-horizontal each_chat flex bg-shade-3 p-4"> {/* --> */}
+                            <div className="group-horizontal flex"> {/* --> */}
+                                <div className="left"></div>
+                                <div className="icon">
+                                    <button ></button>
+                                </div>
+                            </div>
                             <div className="text-base text-color-1">How to do that</div>
                         </div>
                     </div> 
