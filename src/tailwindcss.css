@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "inter";
+    src: url("./fonts/Inter/Inter-VariableFont_opsz\,wght.ttf");
+}
+
+body {
+    font-family: inter;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
